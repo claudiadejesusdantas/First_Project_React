@@ -28,10 +28,19 @@ function Cards(){
                 alt="scene from Mario's game where he hits the monster and runs away."/ >
 
             <Card 
-                title="Exemplo 5" 
-                paragraph="lorem ipsukan f" 
-                link="https://th.bing.com/th/id/OIP.3kIWpW_L7vqchblE5DgcxwHaHa?pid=ImgDet&rs=1" 
-                alt="parrot"/ >
+                title="Scrum" 
+                paragraph="Scrum is a set of best practices used in the management of complex projects, focused on team members, Scrum makes processes simpler, as it keeps visible records of the progress of all steps. Agile methodology is the new way for teams to work in software development." 
+                link="https://media1.giphy.com/media/BqijAlej4RV7O/giphy.gif?cid=ecf05e479dqtmq7451mlqjrm59ms50gqwt6rwmyitxutpy5i&rid=giphy.gif&ct=g" 
+                alt="Luigi and Mario dancing"/ >
+        
+            <Card 
+                title="#..." 
+                paragraph="#" 
+                link="#" 
+                alt="#"/ >
+        
+        
+        
         </section>
     )
 }
