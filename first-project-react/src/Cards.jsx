@@ -22,10 +22,10 @@ function Cards(){
                 alt="Video game Mario kicking a tortoiseshell at the yellow walls."/ >
 
             <Card 
-                title="Exemplo 4" 
-                paragraph="lorem ipsukan f" 
-                link="https://th.bing.com/th/id/OIP.3kIWpW_L7vqchblE5DgcxwHaHa?pid=ImgDet&rs=1" 
-                alt="parrot"/ >
+                title="Javascript" 
+                paragraph="Javascript is a programming language, which along with HTML and CSS, makes up the main triad for web development. It is responsible for the dynamism of the pages, accepted in all the main web browsers, used for both front-end and back-end, with node.js environment." 
+                link="https://media0.giphy.com/media/pLTkbqoB7TkQ0/giphy.gif?cid=ecf05e47nfb8wwlbgoyo1ug3i1gzzdfxf21wicx8otwesfei&rid=giphy.gif&ct=g" 
+                alt="scene from Mario's game where he hits the monster and runs away."/ >
 
             <Card 
                 title="Exemplo 5" 
