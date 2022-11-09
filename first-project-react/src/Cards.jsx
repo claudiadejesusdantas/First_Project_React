@@ -16,10 +16,10 @@ function Cards(){
                 alt="video game Mario changing clothes."/ >
 
             <Card 
-                title="Exemplo 3" 
-                paragraph="lorem ipsukan f" 
-                link="https://th.bing.com/th/id/OIP.3kIWpW_L7vqchblE5DgcxwHaHa?pid=ImgDet&rs=1" 
-                alt="parrot"/ >
+                title="HTML" 
+                paragraph="HTML(Hypertext Markup Language) is the structure of the website, the building blocks of a house. When building a website, you need to know tags, which are placed between < and >, these tags have children, values and attributes. When opening a tag it is important to remember its closing, some like img or hr do not have closing. The minimal structure of an html document needs the DOCTYPE which shows the version of html used, the head which contains the metadata and the body which has the visible body of the site to the user." 
+                link="https://media4.giphy.com/media/XIhPIFwsPxljcGRC5d/giphy.gif?cid=ecf05e474434eifrc2ptu2w6ofyj77ityy2dl0qv456nzb23&rid=giphy.gif&ct=g" 
+                alt="Video game Mario kicking a tortoiseshell at the yellow walls."/ >
 
             <Card 
                 title="Exemplo 4" 
