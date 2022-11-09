@@ -1,6 +1,7 @@
 # First Project React
 <img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" />
-### Project developed for Bootcamp {Reprograma}
+
+## Project developed for Bootcamp {Reprograma}
 
 I will start a react project from scratch with the right to componetize and use props.
 
