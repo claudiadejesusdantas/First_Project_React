@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My favorite programming content</h1>
+      <h1>My programming journey</h1>
       <Bio/>
       <Cards/>
       <Footer/>
