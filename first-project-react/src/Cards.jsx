@@ -5,7 +5,7 @@ function Cards(){
         <section>
             <Card 
                 title="Git & Github" 
-                paragraph="I started my tech journey by learning about Git, whinch is a code versioning system, where I can share my code, track changes and roll back them, alone or in a group. The platform I used upload my projects and push my git was Github. " 
+                paragraph="I started my tech journey by learning about Git, it is a code versioning system, where I can share my code, track changes and roll back them, alone or in a group. The platform I used upload my projects and push my git was Github. " 
                 link="https://media1.giphy.com/media/l0K4nxdKgRzEZu47u/giphy.gif?cid=ecf05e4728hlcmwssf9jusfqxkjjvs09mkhjcpvjwkpurl6c&rid=giphy.gif&ct=g" 
                 alt="a mushroom, a flower and a star being exchanged for their parts."/ >
 
@@ -34,7 +34,7 @@ function Cards(){
                 alt="Luigi and Mario dancing"/ >
         
             <Card 
-                title="the game is not over..." 
+                title="The game is not over..." 
                 paragraph="The journey continues, the next phases are understanding more about Javascript, new projects and learning React. Good luck to us!" 
                 link="https://media4.giphy.com/media/2tL9uCp8IBxlUC0NqP/giphy.gif?cid=ecf05e470mqtq7tyz789z22zxu7ct3035iobk9c7cjnlk3tg&rid=giphy.gif&ct=g" 
                 alt="various characters from the Mario game."/ >
