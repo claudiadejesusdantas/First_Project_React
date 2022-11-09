@@ -34,10 +34,10 @@ function Cards(){
                 alt="Luigi and Mario dancing"/ >
         
             <Card 
-                title="#..." 
-                paragraph="#" 
-                link="#" 
-                alt="#"/ >
+                title="the game is not over..." 
+                paragraph="The journey continues, the next phases are understanding more about Javascript, new projects and learning React. Good luck to us!" 
+                link="https://media4.giphy.com/media/2tL9uCp8IBxlUC0NqP/giphy.gif?cid=ecf05e470mqtq7tyz789z22zxu7ct3035iobk9c7cjnlk3tg&rid=giphy.gif&ct=g" 
+                alt="various characters from the Mario game."/ >
         
         
         
