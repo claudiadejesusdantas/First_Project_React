@@ -1,7 +1,7 @@
 import '../src/App.css'
 import Bio from './Bio'
-import Card from './Card'
 import Cards from './Cards'
+import Footer from './Footer'
 
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
       <h1>My favorite programming content</h1>
       <Bio/>
       <Cards/>
+      <Footer/>
     </div>
   )
 }
