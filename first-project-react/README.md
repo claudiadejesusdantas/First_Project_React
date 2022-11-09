@@ -1,4 +1,4 @@
-# README.md Passo a passo do projeto
+# LEIAME.md Passo a passo do projeto
 ## Minha jornada de programação
 
 <img width="400" src="https://media3.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47v2n8e4d0gmhj7wpzg5uzok9kkju9d2j1d9s4u4k6&rid=giphy.gif&ct=g" />
