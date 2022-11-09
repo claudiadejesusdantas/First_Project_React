@@ -1,8 +1,7 @@
 # README.md Passo a passo do projeto
+## Minha jornada de programação
 
-# Minha jornada de programação
-
-<img src="https://media3.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47v2n8e4d0gmhj7wpzg5uzok9kkju9d2j1d9s4u4k6&rid=giphy.gif&ct=g" />
+<img width="400" src="https://media3.giphy.com/media/QW9Oe9EY1o2zE649Cc/giphy.gif?cid=ecf05e47v2n8e4d0gmhj7wpzg5uzok9kkju9d2j1d9s4u4k6&rid=giphy.gif&ct=g" />
 
 ## Passo a passo - Etapa: Iniciar
 
@@ -14,7 +13,7 @@
 
 ## Passo a passo - Etapa: Index.html
 
-4º Escrevi o nome da página no título do `index.html`. Eu escrevi o nome da página no título do `index.html`. Depois disso, não há mais nenhuma alteração neste arquivo.
+4° Escrevi o nome da página no título do `index.html`. Eu escrevi o nome da página no título do `index.html`. Depois disso, não há mais nenhuma alteração neste arquivo.
 
 ```
 <!DOCTYPEhtml>
@@ -33,12 +32,12 @@
 
 ## Passo a passo - Etapa: main.jsx
 
-O `main.jsx` está sendo chamado dentro do script, em formato de módulo. Ele será responsável pelo conteúdo mostrado no corpo da página.
+5° O `main.jsx` está sendo chamado dentro do script, em formato de módulo. Ele será responsável pelo conteúdo mostrado no corpo da página.
 
 ## Step by step - Stage: Photo, Subtitle and Paragraph
 
-Para montar a **Bio** seria necessário um parágrafo, um título e uma foto. 
-Foi criado os arquivos `Subtitle.jsx`, para o título que retornar a tag h2;  
+6° Para montar a **Bio** seria necessário um parágrafo, um título e uma foto. 
+7° Foi criado os arquivos `Subtitle.jsx`, para o título que retornar a tag h2;  
 `Paragraph.jsx` que retorna a tag `p` e o `Photo.jsx` que retorna a tag `img`. 
 
 Cada um utiliza uma **propriedade**, que remete ao módulo em questão. Com o **parâmetro do html** que será atribuído um valor, ou seja, na função `Photo`, retornará uma imagem, que utiliza como propriedade o nome semântico `(photo)` e chama os parâmetros de imagem que são `<src>` e `<alt>`, deixando o código assim:
@@ -61,7 +60,7 @@ A mesma coisa acontece para os outros arquivos `Subtitle.jsx` e `Paragraph.jsx`,
 
 ## Step by step - Stage: Bio
 
-Para montagem da Bio só é preciso chamar os arquivos criados: `Paragraph.jsx`, `Subtitle.jsx` e `Photo.jsx`.
+8° Para montagem da Bio só é preciso chamar os arquivos criados: `Paragraph.jsx`, `Subtitle.jsx` e `Photo.jsx`.
 Atribuir valores dentro das funções, como mostrado abaixo e importar os módulos:
 
 ```
@@ -95,7 +94,7 @@ export default Bio
 
 ## Step by step - Stage: Footer
 
-Criado um arquivo `Footer.jsx` que retorna uma div, com o `footer`, `&copy` e o valor. Esse arquivo será exportado para ser importando dentro do `App.jsx` e mostrado na página web.
+9° Criado um arquivo `Footer.jsx` que retorna uma div, com o `footer`, `&copy` e o valor. Esse arquivo será exportado para ser importando dentro do `App.jsx` e mostrado na página web.
 
 ```
 function Footer(rodape){
@@ -113,7 +112,7 @@ export default Footer
 
 ## Step by step: Card
 
-O módulo `Card.jsx` foi criado para encapsular os módulos com informações, deixando mais visualmente agradável para manejar o código. Utilizando os mesmos arquivos que foram utilizados na `Bio.jsx`, ele importa o `Subtitle.jsx`, `Paragraph.jsx` e `Photo.jsx`.
+10° O módulo `Card.jsx` foi criado para encapsular os módulos com informações, deixando mais visualmente agradável para manejar o código. Utilizando os mesmos arquivos que foram utilizados na `Bio.jsx`, ele importa o `Subtitle.jsx`, `Paragraph.jsx` e `Photo.jsx`.
 
 No caso a propriedade aqui utilizada é o (card), onde o os parâmetros html continuam os mesmo que visto antes. O código será exportado para ser importado pela sua coleção `Cards.jsx`, o código final fica assim:
 
@@ -137,11 +136,11 @@ export default Card
 
 ## Step by step: Cards
 
-Esse módulo foi criado para incluir os valores dos cards, cada card aqui retornará um valor e exibirá na tela. A dinâmica é a mesma vista acima, importar o módulo que será utilizado, que no caso é o `Card.jsx`, atribuir os valores dentro dos parâmetros e exportar o módulo para ser integrado no `App.jsx`.
+11° Esse módulo foi criado para incluir os valores dos cards, cada card aqui retornará um valor e exibirá na tela. A dinâmica é a mesma vista acima, importar o módulo que será utilizado, que no caso é o `Card.jsx`, atribuir os valores dentro dos parâmetros e exportar o módulo para ser integrado no `App.jsx`.
 
 ## Step by step: App.jsx
 
-Finalizando, todos os módulos apontarão para o App.jsx.
+12° Finalizando, todos os módulos apontarão para o App.jsx.
 
 Ele será o responsável por mostrar na tela tudo que foi criado até o momento. 
 
@@ -174,4 +173,4 @@ Repositório: [Semana 13 - Turma on20 Front-End 2022](https://github.com/reprogr
 
 ## Referência dos gifs
 
-Acessado em: [Giphy](https://giphy.com/) <img src="https://media4.giphy.com/media/QxZEtFE02ofY00gJ71/giphy.gif" style="width='50px'"/>
+Acessado em: [Giphy](https://giphy.com/) <img src="https://media4.giphy.com/media/QxZEtFE02ofY00gJ71/giphy.gif" width="15" />
